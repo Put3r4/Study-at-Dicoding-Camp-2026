@@ -14,7 +14,7 @@ Don't forget to follow!
 * Logika Perbandingan dan Perulangan.
 
 **17 Februari 2026**  
-Belajar kelas Git. (Progres 21%)
+Belajar kelas Git. (Progres 100%)
 * Mengetahui cara membuat repository di dalm GitHub.
 * Melakukan konfigurasi tampilan pada README.md dengan format markdown.
 * Melihat history perubahan.
