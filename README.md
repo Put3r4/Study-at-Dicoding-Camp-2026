@@ -17,13 +17,13 @@ Don't forget to follow!
 Belajar kelas Git. (Progres 21%)
 * Mengetahui cara membuat repository di dalm GitHub.
 * Melakukan konfigurasi tampilan pada README.md dengan format markdown.
-* Melihat history perubahan
-* Belajar membuat Git Branches
-* Belajar melakukan perpindahan Git Branches
-* Melakukan Pull Request
-* Belajar cara mengatasi Merge Conflict
-* Belajar melakukan kolaborasi dengan tim pada Public Repository
-* Latihan Revert, Squashing Change, dan Code Reviews
-
+* Melihat history perubahan.
+* Belajar membuat Git Branches.
+* Belajar melakukan perpindahan Git Branches.
+* Melakukan Pull Request.
+* Belajar cara mengatasi Merge Conflict.
+* Belajar melakukan kolaborasi dengan tim pada Public Repository.
+* Latihan Revert, Squashing Change, dan Code Reviews.
+* Belajar membuat portofolio dengan GitHub.
 
 ---
