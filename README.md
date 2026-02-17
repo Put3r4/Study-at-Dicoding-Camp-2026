@@ -22,6 +22,8 @@ Belajar kelas Git. (Progres 21%)
 * Belajar melakukan perpindahan Git Branches
 * Melakukan Pull Request
 * Belajar cara mengatasi Merge Conflict
+* Belajar melakukan kolaborasi dengan tim pada Public Repository
+* Latihan Revert, Squashing Change, dan Code Reviews
 
 
 ---
