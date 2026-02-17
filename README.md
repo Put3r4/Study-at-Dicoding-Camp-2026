@@ -18,6 +18,8 @@ Belajar kelas Git. (Progres 21%)
 * Mengetahui cara membuat repository di dalm GitHub.
 * Melakukan konfigurasi tampilan pada README.md dengan format markdown.
 * Melihat history perubahan
+* Belajar membuat Git Branches
+* Belajar melakukan perpindahan Git Branches
 
 
 ---
