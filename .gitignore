@@ -1,1 +1,27 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.ipynb_checkpoints/
 
+# --- R ---
+.Rhistory
+.RData
+.Ruserdata
+
+# --- JavaScript / Node ---
+node_modules/
+npm-debug.log*
+
+# --- Data & Large Files ---
+*.csv
+*.json
+*.xlsx
+*.zip
+
+# --- OS System Files ---
+.DS_Store
+Thumbs.db
