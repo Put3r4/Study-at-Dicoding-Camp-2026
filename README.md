@@ -6,7 +6,7 @@ Don't forget to follow!
 ## Pengalaman Belajar di Dicoding  
 
 **16 Februari 2026**  
-Belajar Dasar Java Script. (Progres 100%)
+[Belajar Dasar Java Script](https://github.com/Put3r4/Study-at-Dicoding-Camp-2026/tree/main/Java%20Script%20Dasar). (Progres 100%)
 * Mendeklarasikan variabel (let / const).
 * Tipe Data (Undefiend, Number, String, Boolean, Null).
 * Function dan Parameternya.
