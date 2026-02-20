@@ -26,4 +26,28 @@ Belajar kelas Git. (Progres 100%)
 * Latihan Revert, Squashing Change, dan Code Reviews.
 * Belajar membuat portofolio dengan GitHub.
 
+**20 Februari 2026**
+Belajar Dasar Data Scince. (Progres 100%)
+* Belajar Jenis - Jenis Data (Numerik & Ketgorikal).
+* Belajar DDDM (Data-Driven Decision Making) untuk mengambil keputusan menggunakan data.
+* Belajar Hubungan Matematika dengan Data Science (Variabel, Fungsi, Penjumlahan, Kalkulus).
+* Belajar Metodologi Data Science.
+* Belajar Siklus Analisis Data.
+* Studi Kasus untuk Analisis Data (menggunakan metode SMART Question untuk mengetahui Data Rating Terendah Destinasi Wisata di BALI 2022).
+* Belajar Mengumpulkan Data Set, Membersihkan Data, Mengurutkan Data, Mengeksplorasi Data, Mencari Nilai Korelasi, serta Memvisualisasi Data dan Mengambil Kesimpulan.
+* Belajar Macam - Macam Grafik dalam Data Science.
+* Belajar Bercerita dengan Data.
+* Belajar Teknologi Penyimpanan Data.
+* Mengetahui Perangkat Pengolahan dan Visualisasi Data.
+* Mengetahui Bahasa Pemrograman dalam Data Science (Python dan R).
+* Mengetahui Tipe - Tipe dalam Machine Learning.
+* Belajar Algoritma Machine Learning (Linear & Logistic Regression).
+* Belajar untuk membuat Portfolio dengan Github dengan refrensi Porject.
+* Belajar melakukan pendekatan Wawancara dalam Melamar Pekerjaan dengan Baik.
+
+**20 Februari 2026**
+Belajar Dasar Visualisasi Data. (Progres %)
+*
+
+
 ---
