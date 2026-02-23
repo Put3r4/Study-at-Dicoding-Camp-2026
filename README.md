@@ -46,8 +46,21 @@ Belajar Dasar Data Scince. (Progres 100%)
 * Belajar melakukan pendekatan Wawancara dalam Melamar Pekerjaan dengan Baik.
 
 **20 Februari 2026**
-Belajar Dasar Visualisasi Data. (Progres %)
-*
+Belajar Dasar Visualisasi Data. (Progres 100%)
+* Belajar Tools Visualisasi Data (Google Spreadsheet).
+* Belajar Fungsi dalam Google Spreadsheet (SUM, SUMIF, SUMIFS, COUNT, COUNTA, COUNTIF, COUNTIFS, MAX, MIN, TRIM, REPLACE, UNIQUE, IF).
+* Balajar untuk Pengelolaan Data Set menggunakan Pivot Table.
+* Belajar mengubah data menjadi bentuk Grafik.
+* Mengetahui Kesalahan Umum dalam Visualisasi Data.
+* Mengetahui Tools dan pentingnya Dokumentasi Data.
+* Belajar cara Menyampaikan Data dengan Explanatory Analysis.
+* Belajar Prinsip Gestalt dalam Analisis Visual.
+* Mengetahui aspek penting dalam Desain untuk Komunikasi Data.
+
+ **23 Februari 2026**
+ Memulai Pemragraman dengan Python. (Progres %)  
+ [Untuk Progres Praktikum akan disatukan dalam repository ini](https://github.com/Put3r4/Belajar-Python)
+ * 
 
 
 ---
