@@ -6,7 +6,7 @@ Don't forget to follow!
 ## Pengalaman Belajar di Dicoding  
 
 **16 Februari 2026**  
-Belajar Dasar Java Script. (Progres 100%)
+[Belajar Dasar Java Script](https://github.com/Put3r4/Study-at-Dicoding-Camp-2026/tree/main/Java%20Script%20Dasar). (Progres 100%)
 * Mendeklarasikan variabel (let / const).
 * Tipe Data (Undefiend, Number, String, Boolean, Null).
 * Function dan Parameternya.
@@ -14,16 +14,53 @@ Belajar Dasar Java Script. (Progres 100%)
 * Logika Perbandingan dan Perulangan.
 
 **17 Februari 2026**  
-Belajar kelas Git. (Progres 21%)
+Belajar kelas Git. (Progres 100%)
 * Mengetahui cara membuat repository di dalm GitHub.
 * Melakukan konfigurasi tampilan pada README.md dengan format markdown.
-* Melihat history perubahan
-* Belajar membuat Git Branches
-* Belajar melakukan perpindahan Git Branches
-* Melakukan Pull Request
-* Belajar cara mengatasi Merge Conflict
-* Belajar melakukan kolaborasi dengan tim pada Public Repository
-* Latihan Revert, Squashing Change, dan Code Reviews
+* Melihat history perubahan.
+* Belajar membuat Git Branches.
+* Belajar melakukan perpindahan Git Branches.
+* Melakukan Pull Request.
+* Belajar cara mengatasi Merge Conflict.
+* Belajar melakukan kolaborasi dengan tim pada Public Repository.
+* Latihan Revert, Squashing Change, dan Code Reviews.
+* Belajar membuat portofolio dengan GitHub.
+
+**20 Februari 2026**
+Belajar Dasar Data Scince. (Progres 100%)
+* Belajar Jenis - Jenis Data (Numerik & Ketgorikal).
+* Belajar DDDM (Data-Driven Decision Making) untuk mengambil keputusan menggunakan data.
+* Belajar Hubungan Matematika dengan Data Science (Variabel, Fungsi, Penjumlahan, Kalkulus).
+* Belajar Metodologi Data Science.
+* Belajar Siklus Analisis Data.
+* Studi Kasus untuk Analisis Data (menggunakan metode SMART Question untuk mengetahui Data Rating Terendah Destinasi Wisata di BALI 2022).
+* Belajar Mengumpulkan Data Set, Membersihkan Data, Mengurutkan Data, Mengeksplorasi Data, Mencari Nilai Korelasi, serta Memvisualisasi Data dan Mengambil Kesimpulan.
+* Belajar Macam - Macam Grafik dalam Data Science.
+* Belajar Bercerita dengan Data.
+* Belajar Teknologi Penyimpanan Data.
+* Mengetahui Perangkat Pengolahan dan Visualisasi Data.
+* Mengetahui Bahasa Pemrograman dalam Data Science (Python dan R).
+* Mengetahui Tipe - Tipe dalam Machine Learning.
+* Belajar Algoritma Machine Learning (Linear & Logistic Regression).
+* Belajar untuk membuat Portfolio dengan Github dengan refrensi Porject.
+* Belajar melakukan pendekatan Wawancara dalam Melamar Pekerjaan dengan Baik.
+
+**20 Februari 2026**
+Belajar Dasar Visualisasi Data. (Progres 100%)
+* Belajar Tools Visualisasi Data (Google Spreadsheet).
+* Belajar Fungsi dalam Google Spreadsheet (SUM, SUMIF, SUMIFS, COUNT, COUNTA, COUNTIF, COUNTIFS, MAX, MIN, TRIM, REPLACE, UNIQUE, IF).
+* Balajar untuk Pengelolaan Data Set menggunakan Pivot Table.
+* Belajar mengubah data menjadi bentuk Grafik.
+* Mengetahui Kesalahan Umum dalam Visualisasi Data.
+* Mengetahui Tools dan pentingnya Dokumentasi Data.
+* Belajar cara Menyampaikan Data dengan Explanatory Analysis.
+* Belajar Prinsip Gestalt dalam Analisis Visual.
+* Mengetahui aspek penting dalam Desain untuk Komunikasi Data.
+
+ **23 Februari 2026**
+ Memulai Pemragraman dengan Python. (Progres %)  
+ [Untuk Progres Praktikum akan disatukan dalam repository ini](https://github.com/Put3r4/Belajar-Python)
+ * 
 
 
 ---
